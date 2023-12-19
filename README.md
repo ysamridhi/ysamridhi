@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/ysamridhi/ysamridhi/assets/86194637/17e70505-987e-4849-90a4-17c03cf83a43)
+![github-header-image (2)](https://github.com/ysamridhi/ysamridhi/assets/86194637/7b2ed325-5ccc-4c8c-a620-5d1aebde7828)
 
 - 🌱 I’m currently learning **React.js**
 
