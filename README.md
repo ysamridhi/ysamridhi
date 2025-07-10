@@ -1,7 +1,5 @@
 ![github-header-image (2)](https://github.com/ysamridhi/ysamridhi/assets/86194637/7b2ed325-5ccc-4c8c-a620-5d1aebde7828)
 
-- 🌱 I’m currently learning **React.js**
-
 - 📫 How to reach me **samridhiyadav12@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysamridhi&label=Profile%20views&color=0e75b6&style=flat" alt="ysamridhi" /> </p>
